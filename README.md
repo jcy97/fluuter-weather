@@ -1,16 +1,5 @@
 # geo_application
 
-A new Flutter project.
+Flutter 날씨 앱 UI 샘플입니다.
+Bloc 기반 아키텍쳐를 가지고 있지만 Weather API의 비용 문제로 UI까지만 구현하였습니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
